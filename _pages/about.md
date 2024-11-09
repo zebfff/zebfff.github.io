@@ -24,7 +24,7 @@ His research interests are in building efficient near data processing or process
 
 
 # 🔥 News
-- *2022.10*: &nbsp;🎉🎉 One paper get accepted in TCAD.
+- *2024.10*: &nbsp;🎉🎉 One paper get accepted in TCAD.
 - *2024.07*: &nbsp;🎉🎉 One paper get accepted in MICRO'24. 
 
 # 📝 Publications 
@@ -40,16 +40,4 @@ His research interests are in building efficient near data processing or process
 
 # 🎖 Honors and Awards
 - *2020.10* Best
-
-<!--# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
--->
 

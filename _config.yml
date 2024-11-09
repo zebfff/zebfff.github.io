@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Bing Wu (吴兵)"
-description              : "Personal homepage for Bing Wu (吴兵)"
+description              : "Postdoc"
 repository               : "zebfff/zebfff.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "wubin200@hust.edu.cn | wubin200@126.com"
+  email            : "wubin200@hust.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
