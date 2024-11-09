@@ -31,7 +31,7 @@ His research interests are in building efficient near data processing or process
 
 **Conferences**
 
-- []
+- [DRCTL: A Disorder-Resistant Computation Translation Layer Enhancing the Lifetime and Performance of Memristive CIM Architecture]. Heng Zhou, **Bing Wu**, Huan Cheng, Jinpeng Liu, Taoming Lei, Dan Feng, Wei Tong. Corresponding Author. MICRO 2024 (CCF-A).
 
 **Journal**
 
@@ -39,5 +39,6 @@ His research interests are in building efficient near data processing or process
 
 
 # 🎖 Honors and Awards
-- *2020.10* Best
+- *2020.11* Best Paper Nomination in ICCD 2020.
+- *2019.11* Best Paper Nomination in ICCD 2019.
 
