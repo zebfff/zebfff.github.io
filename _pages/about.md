@@ -25,6 +25,7 @@ Email:wubin200 at hust.edu.cn or wubin200 at 126.com (alternate)
 
 
 # 🔥 Recent News
+- *2025.10*: &nbsp;🎉🎉 We get silver award in the 3rd China Postdoctoral Innovation & Entrepreneurship Competition.
 - *2024.10*: &nbsp;🎉🎉 One paper get accepted in TCAD.
 - *2024.07*: &nbsp;🎉🎉 One paper get accepted in MICRO'2024. 
 - *2023.11*: &nbsp;🎉🎉 One paper get accepted in ICCD'2023. 
@@ -51,6 +52,7 @@ See more details at Google Scholar.
 See more details at Google Scholar.
 
 # 🎖 Honors and Awards
-- *2020.11* Best Paper Nomination in ICCD 2020.
+- *2025.10* Silver Award in the 3rd China Postdoctoral Innovation & Entrepreneurship Competition.
+- *2020.11* Best Paper Nomination in ICCD 2020 and Best Paper in Track Computer Systems.
 - *2019.11* Best Paper Nomination in ICCD 2019.
 
