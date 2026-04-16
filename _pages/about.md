@@ -18,8 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Bing Wu received the B.E. degree in Computer Science and Technology from Huazhong University of Science and Technology (HUST) in 2016, and the Ph.D. degree in Computer Architecture from HUST in 2022.
-He is now a postdoctoral researcher at HUST since 2022.
-His research interests are in building efficient near data processing or processing-in-memory systems.
+He was a postdoctoral researcher at HUST from 2022 to 2026.
+He has been a lecturer at HUST since 2026.
+His research interests are in building large non-volatile memory, efficient near-data processing systems, and processing-in-memory systems.
 
 Email:wubin200 at hust.edu.cn or wubin200 at 126.com (alternate)
 
