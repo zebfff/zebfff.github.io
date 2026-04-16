@@ -36,7 +36,7 @@ Email:wubin200 at hust.edu.cn or wubin200 at 126.com (alternate)
 
 **Conferences**
 
-- An IR drop-robust Mapping Method for Reliable Memristive Accelerators. Jinpeng Liu, Shiyi Song, **Bing Wu**, Huan Cheng, Heng Zhou, Xueliang Wei, Wei Tong and Dan Feng. DATE 2026 (CCF-B).
+- An IR drop-robust Mapping Method for Reliable Memristive Accelerators. Jinpeng Liu, Shiyi Song, **Bing Wu**, Huan Cheng, Heng Zhou, Xueliang Wei, Wei Tong and Dan Feng. Corresponding Author. DATE 2026 (CCF-B).
 - [DRCTL: A Disorder-Resistant Computation Translation Layer Enhancing the Lifetime and Performance of Memristive CIM Architecture](https://ieeexplore.ieee.org/document/10764631). Heng Zhou, **Bing Wu**, Huan Cheng, Jinpeng Liu, Taoming Lei, Dan Feng, Wei Tong. Corresponding Author. MICRO 2024 (CCF-A).
 - [ICON: An IR Drop Compensation Method at OU Granularity with Low Overhead for eNVM-based Accelerators](https://ieeexplore.ieee.org/abstract/document/10361037). Jinpeng Liu, Wei Tong, **Bing Wu**, Huan Cheng, Chengning Wang. ICCD 2023 (CCF-B).
 - [ODLPIM: A Write-Optimized and Long-Lifetime ReRAM-Based Accelerator for Online Deep Learning](https://ieeexplore.ieee.org/abstract/document/10137130). Heng Zhou, **Bing Wu**, Huan Cheng, Wei Zhao, Xueliang Wei, Jinpeng Liu, Dan Feng, Wei Tong. DATE 2023 (CCF-B).
