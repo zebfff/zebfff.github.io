@@ -61,5 +61,5 @@ See more details at Google Scholar.
 - *2019.11* Best Paper Nomination in ICCD 2019.
 
 # My CV
-<a href="/_pages/BingWu_CV.pdf" target="_blank" rel="noopener noreferrer">Bing Wu's CV</a>.
+MY CV: <a href="/_pages/BingWu_CV.pdf" target="_blank" rel="noopener noreferrer">Bing Wu's CV</a>.
 
