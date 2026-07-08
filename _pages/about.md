@@ -61,7 +61,7 @@ See more details at Google Scholar.
 - *2020.11* Best Paper Nomination in ICCD 2020 and Best Paper in Track Computer Systems.
 - *2019.11* Best Paper Nomination in ICCD 2019.
 
-<span class='anchor' id='my-cv'></span>
 # My CV
+<span class='anchor' id='my-cv'></span>
 MY CV: <a href="/_pages/BingWu_CV.pdf" target="_blank" rel="noopener noreferrer">Bing Wu's CV</a>.
 
