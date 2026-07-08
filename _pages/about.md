@@ -17,9 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Bing Wu received the B.E. degree in Computer Science and Technology from Huazhong University of Science and Technology (HUST) in 2016, and the Ph.D. degree in Computer Architecture from HUST in 2022. 
-He served as a postdoctoral researcher at HUST from 2022 to 2026 and has been a lecturer at HUST since 2026. 
-His research interests include large-scale non-volatile memory systems, efficient near-data processing systems, and processing-in-memory systems.
+Bing Wu is currently a lecturer at Huazhong University of Science and Technology (HUST) from Apr. 2026. 
+He was a postdoctoral researcher at HUST from 2022 to 2026. 
+He received the B.E. degree in Computer Science and Technology from HUST in 2016 and the Ph.D. degree in Computer Architecture from HUST in 2022. 
+His research interests include large-scale non-volatile memory systems, efficient near-data processing/processing-in-memory systems.
 
 
 Email:wubin200 at hust.edu.cn or wubin200 at 126.com (alternate)
@@ -60,6 +61,7 @@ See more details at Google Scholar.
 - *2020.11* Best Paper Nomination in ICCD 2020 and Best Paper in Track Computer Systems.
 - *2019.11* Best Paper Nomination in ICCD 2019.
 
+<span class='anchor' id='my-cv'></span
 # My CV
 MY CV: <a href="/_pages/BingWu_CV.pdf" target="_blank" rel="noopener noreferrer">Bing Wu's CV</a>.
 
