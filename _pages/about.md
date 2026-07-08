@@ -21,6 +21,8 @@ Bing Wu received the B.E. degree in Computer Science and Technology from Huazhon
 He served as a postdoctoral researcher at HUST from 2022 to 2026 and has been a lecturer at HUST since 2026. 
 His research interests include large-scale non-volatile memory systems, efficient near-data processing systems, and processing-in-memory systems.
 
+My CV: [BingWu_CV.pdf](https://raw.githubusercontent.com/zebfff/zebfff.github.io/master/docs/BingWu_CV.pdf).
+
 Email:wubin200 at hust.edu.cn or wubin200 at 126.com (alternate)
 
 
